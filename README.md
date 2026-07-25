@@ -6,20 +6,6 @@
 
 <br/>
 
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanahmed786508/credit-scoring-system)
-[![License](https://img.shields.io/badge/License-Educational-lightgrey?style=for-the-badge)](#-license)
-
-[![Best Model](https://img.shields.io/badge/Best%20Model-Random%20Forest-success?style=flat-square)](#-models-used)
-[![Accuracy](https://img.shields.io/badge/Accuracy-93.34%25-brightgreen?style=flat-square)](#-models-used)
-[![Last Commit](https://img.shields.io/github/last-commit/rizwanahmed786508/credit-scoring-system?style=flat-square)](https://github.com/rizwanahmed786508/credit-scoring-system/commits)
-[![Stars](https://img.shields.io/github/stars/rizwanahmed786508/credit-scoring-system?style=flat-square)](https://github.com/rizwanahmed786508/credit-scoring-system/stargazers)
-[![Made with Python](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Python-red?style=flat-square)](#)
-
-**[🚀 Open App](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/) &nbsp;·&nbsp; [📂 Repository](https://github.com/rizwanahmed786508/credit-scoring-system) &nbsp;·&nbsp; [🐛 Report Issue](https://github.com/rizwanahmed786508/credit-scoring-system/issues)**
-
 </div>
 
 <br/>
@@ -39,7 +25,7 @@ Lending decisions come down to one high-stakes question: *will this applicant re
 <div align="center">
 
 [![Open App](https://img.shields.io/badge/🚀%20Open%20App-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://credit-scoring-system-kgsxmwuhqibn6mcqvbw7rz.streamlit.app/)
-[![View Repo](https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanahmed786508/credit-scoring-system)
+[![View Repo](https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 </div>
 
