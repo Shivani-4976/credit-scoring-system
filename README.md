@@ -288,8 +288,8 @@ This project is developed for educational, research, and portfolio purposes.
 
 <div align="center">
 
-**Rizwan Ahmed**
-Machine Learning Engineer · BS Software Engineering, Sukkur IBA University
+**shivani raj**
+MINNING ENGENIRRING FROM NIT RAIPUR
 
 *Inspired by real-world banking credit risk assessment workflows.*
 
